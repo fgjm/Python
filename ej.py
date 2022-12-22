@@ -1,6 +1,6 @@
 x=1
 while x <21:
-  if(x==8):
+  if(x==5):
     x+=1
     continue
   print(x, end=': ')
@@ -14,7 +14,7 @@ while x <21:
     print("es primo")
   x+=1
 else:
-  print('fin Algorit')
+  print('fin Algoritmo')
 
 
 
