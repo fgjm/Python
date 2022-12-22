@@ -18,3 +18,14 @@ else:
 
 
 
+"""
+for x in range(1,21):
+  print(x, end=': ')
+  for a in range(2,x):    
+    if x%a==0:
+      print("no es primo")
+      break
+  else:
+    print("es primo")
+
+"""
